@@ -1,1 +1,1 @@
-# odin-recipes
+# krispy-recipes
